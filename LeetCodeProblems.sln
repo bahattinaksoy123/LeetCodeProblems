@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems.Tests", "L
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{7028E00E-2050-4DC6-9C5D-3875598BA8DA}"
 	ProjectSection(SolutionItems) = preProject
-		Skills.md = Skills.md
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Global
